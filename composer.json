@@ -1,0 +1,22 @@
+{
+    "name": "ali/talabash-assignment",
+    "description": "This project is an assignment done by Ali for Talabash job application.",
+    "type": "project",
+    "require": {
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ali\\TalabashAssignment\\": "src/",
+            "Core\\": "core/",
+            "Core\\Database\\": "core/database"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali J",
+            "email": "alijawadi.dev@gmail.com"
+        }
+    ]
+}
