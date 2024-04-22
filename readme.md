@@ -1,7 +1,6 @@
 Hello There
 
-I have created a container to have my dependencies and run and easy to access. Also, a query builder and other classes to easily handle the app.
-There are three routes which are defined in the [public/index.php](public%2Findex.php) file.
+This is a showcase for my understanding of containsers. It's pure PHP and mimicking Laravel.
 
 In order to run this project consider these steps:
 
